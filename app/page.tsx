@@ -5,7 +5,7 @@ export default function Home() {
     <main className="min-h-screen flex items-center justify-center bg-gradient-to-br from-[#0f172a] to-[#1e293b] text-white px-4">
       <div className="text-center backdrop-blur-md bg-white/5 p-8 rounded-2xl shadow-xl max-w-lg w-full border border-white/10">
         <Image
-          src="/profile.jpg" // make sure to add this to your public folder
+          src="/profile.jpg"
           alt="Rithvik's Profile Picture"
           width={100}
           height={100}
